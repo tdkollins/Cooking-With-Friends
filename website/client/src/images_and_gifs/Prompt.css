@@ -1,0 +1,20 @@
+.Container {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.Cup-Text {
+    position: relative;
+    top: 100px;
+    transform: scaleX(-1);
+}
+
+img {
+    margin: 0;
+}
+
+.Stir-Text {
+    font-size: 75px;
+    transform: scaleX(-1);
+}

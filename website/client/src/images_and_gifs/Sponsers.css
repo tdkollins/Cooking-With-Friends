@@ -1,0 +1,27 @@
+#Google {
+    position: absolute;
+    top: 0px;
+    left: 350px;
+    transform: scaleX(-1);
+}
+
+#MLH {
+    position: absolute;
+    bottom: 100px;
+    right: 300px;
+    transform: scaleX(-1);
+}
+
+#Facebook {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    transform: scaleX(-1);
+}
+
+#Mhacks {
+    position: absolute;
+    left: 450px;
+    bottom: 0px;
+    transform: scaleX(-1);
+}

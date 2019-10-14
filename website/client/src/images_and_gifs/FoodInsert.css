@@ -1,0 +1,24 @@
+.Food {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Insert {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Arrow-Insert {
+    margin-left: 50px;
+}
+
+.Arrow-Remove {
+    transform: scaleX(-1);
+    margin-right: 50px;
+}
+
+.Text {
+    transform: scaleX(-1);
+}
