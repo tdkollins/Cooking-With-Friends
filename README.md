@@ -10,8 +10,8 @@ Additional credits go to @Ifavhoney, @RayRuizheLi and mill2525@purdue.edu.
 
 ## Demo
 
-![Chop Demo](demo/chop)
-![Fill Demo](demo/fill)
+![Chop Demo](demo/Chop.gif)
+![Fill Demo](demo/Fill.gif)
 
 ## Devpost
 
