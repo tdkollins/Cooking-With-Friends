@@ -10,10 +10,10 @@ Additional credits go to @Ifavhoney, @RayRuizheLi and mill2525@purdue.edu.
 
 ## Demo
 
-![](demo/chop)
-![](demo/fill)
+![Chop Demo](demo/chop)
+![Fill Demo](demo/fill)
 
 ## Devpost
 
 Learn more about our project here:
-[](https://devpost.com/software/cooking-with-friends)
+[Devpost](https://devpost.com/software/cooking-with-friends)
